@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #333;
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+table th,table td {
+    border: 1px solid lightgray;
+    padding:4px;
+    
+}
+
+table {
+    border-collapse: collapse;
+}
